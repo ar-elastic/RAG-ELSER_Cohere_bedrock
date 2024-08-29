@@ -1,0 +1,1 @@
+# RAG-ELSER_Cohere_bedrock
